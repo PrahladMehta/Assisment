@@ -919,3 +919,7 @@ font-weight: 500;
       right:0;
       width:170px;
 }
+
+a{
+   all:unset;
+}
